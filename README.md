@@ -11,5 +11,3 @@ My approach to development follows an iterative and incremental model, incorpora
 ### Being a Good Team Member in Software Development
 Effective teamwork is essential in software development. I strive to be a good team member by actively communicating, sharing knowledge, and contributing to problem-solving. Collaboration tools like **GitHub, Jira, and Slack** help streamline communication and version control. Additionally, providing constructive feedback and being open to learning from others strengthens team cohesion and project success.
 
-### Submission Details
-This document serves as the **Sprint Review and Retrospective** deliverable for my final project. It reflects on Agile and Scrum practices applied throughout the course and is included in my GitHub repository for future reference.
